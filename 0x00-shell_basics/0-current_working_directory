@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+#!/bin/bash\npwd 0-current_working_directory
