@@ -1,1 +1,1 @@
-file [-F:][-f School][-m school.mgc]
+file -C [-F:][-f School][-m school.mgc]
