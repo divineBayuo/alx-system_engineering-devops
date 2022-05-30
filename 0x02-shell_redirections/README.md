@@ -1,1 +1,1 @@
-This is for project about shell permissions
+This project is about shell redirections
