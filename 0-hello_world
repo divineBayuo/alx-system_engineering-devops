@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo -e "Hello, World\n"
+=======
+echo 'Hello, World'
+>>>>>>> 636864b (Print confused smiley)
