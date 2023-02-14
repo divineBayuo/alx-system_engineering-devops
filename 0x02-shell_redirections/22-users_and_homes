@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al | sort users
+ls -al /etc/passwd | sort users
